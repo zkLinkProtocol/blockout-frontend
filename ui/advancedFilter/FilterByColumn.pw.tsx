@@ -25,7 +25,7 @@ const filters = {
   from_address_hashes_to_include: [ '0x123' ],
   to_address_hashes_to_include: [ '0x456' ],
   amount_from: '100',
-  token_contract_symbols_to_include: [ 'ETH' ],
+  token_contract_symbols_to_include: [ 'BNB' ],
   token_contract_address_hashes_to_include: [ 'native' ],
 };
 

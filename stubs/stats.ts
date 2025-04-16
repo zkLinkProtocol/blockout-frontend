@@ -45,8 +45,8 @@ export const HOMEPAGE_STATS: HomeStats = {
 const STATS_CHART_INFO: stats.LineChartInfo = {
   id: 'chart_0',
   title: 'Average transaction fee',
-  description: 'The average amount in ETH spent per transaction',
-  units: 'ETH',
+  description: 'The average amount in BNB spent per transaction',
+  units: 'BNB',
   resolutions: [ 'DAY', 'MONTH' ],
 };
 
@@ -59,7 +59,7 @@ export const STATS_CHARTS_SECTION: stats.LineChartSection = {
       id: 'chart_1',
       title: 'Transactions fees',
       description: 'Amount of tokens paid as fees',
-      units: 'ETH',
+      units: 'BNB',
       resolutions: [ 'DAY', 'MONTH' ],
     },
     {
