@@ -130,6 +130,7 @@
     "@eslint/compat": "1.2.2",
     "@eslint/js": "9.14.0",
     "@next/eslint-plugin-next": "15.0.3",
+    "@parcel/watcher": "^2.5.1",
     "@playwright/experimental-ct-react": "1.49.0",
     "@playwright/test": "1.49.0",
     "@stylistic/eslint-plugin": "2.10.1",
